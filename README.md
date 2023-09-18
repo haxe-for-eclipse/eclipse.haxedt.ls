@@ -1,3 +1,11 @@
+Eclipse Haxe Language Server
+===========================
+
+ * Project Status: Inception; far from release
+
+TBD The content below is to be edited.
+===========================
+
 [![Build Status](https://img.shields.io/jenkins/tests?jobUrl=https%3A%2F%2Fci.eclipse.org%2Fls%2Fjob%2Fjdt-ls-master%2F&logo=jenkins&logoColor=white&style=for-the-badge)](https://ci.eclipse.org/ls/job/jdt-ls-master)
 
 Eclipse JDT Language Server
